@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Federico,
 - 👀 I’m interested in Java development, Liferay portal, web technologies and cybersecurity.
-- 🌱 I’m currently learning advanced Liferay development and Shopware.
-- 💞️ I’m looking to collaborate on Liferay or commerce projects.
+- 🌱 I’m currently learning advanced Liferay development and Java.
+- 💞️ I’m looking to collaborate on projects as a contractor.
 - 📫 How to reach me: You can contact me via email at federico.toldo.dev@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/federico-toldo-dev/).
